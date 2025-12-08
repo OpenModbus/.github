@@ -1,3 +1,8 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/banner_dark.png">
+  <img alt="Open Modbus Banner" src="./assets/banner.png">
+</picture>
+
 ## Hi there 👋
 
 **Open Modbus** is an open-source initiative focused on creating reliable, fully transparent hardware and firmware for Modbus-based automation systems.  
